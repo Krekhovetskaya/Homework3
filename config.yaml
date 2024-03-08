@@ -1,0 +1,7 @@
+FOLDER_IN: /home/elizaveta/tst
+FOLDER_OUT: /home/elizaveta/out
+FOLDER_EXTRACT: /home/elizaveta/folder1
+FOLDER_EXTRACT2: /home/elizaveta/folder_test
+count: 3
+size: 5M
+extension: zip
